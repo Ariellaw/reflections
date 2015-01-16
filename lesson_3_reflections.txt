@@ -1,0 +1,4 @@
+How can you use the commands git log and git diff to view the history of files?
+
+Simply to find changes made to code more easily. 
+And go to earlier version of the code with greater ease.

@@ -1,0 +1,5 @@
+I learned how to create a repository, it was easier than i thought. 
+However, I have not figured out to to change the color of the text in the git bash and it is berty difficult to read.
+
+ I'm also happy that I'm finally getting around to studying. I have not done this for too long( a week and a half)
+ A git repository is very important inorder to keep track of one's work
