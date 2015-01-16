@@ -1,0 +1,4 @@
+At the moment I don't know what I want to use GIT for. I know that I will have many uses for it in the future.
+
+It was rather tricky getting it set up and I still did not manage to get the back ground to turn white :(
+I think think I will open up the GIT bash thingy.
